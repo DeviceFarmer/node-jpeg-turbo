@@ -14,7 +14,7 @@ blocks:
             - checkout
             - git submodule init
             - git submodule update
-            - sem-version node 12
+            - sem-version node 8.9.3
             - cache restore
             - npm install
             - cache store
