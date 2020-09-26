@@ -1,3 +1,8 @@
+# Deprecated
+
+This project is no longer maintained.
+Device Farmer uses https://github.com/Julusian/node-jpeg-turbo now instead.
+
 # node-jpeg-turbo
 
 [![Build Status](https://travis-ci.org/sorccu/node-jpeg-turbo.svg?branch=master)](https://travis-ci.org/sorccu/node-jpeg-turbo) [![npm](https://img.shields.io/npm/v/jpeg-turbo.svg)](https://www.npmjs.com/package/jpeg-turbo) [![npm](https://img.shields.io/npm/dm/jpeg-turbo.svg)](https://www.npmjs.com/package/jpeg-turbo) [![npm](https://img.shields.io/npm/l/jpeg-turbo.svg)](LICENSE)
